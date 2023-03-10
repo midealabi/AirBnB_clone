@@ -12,7 +12,7 @@ and the base classes for the storage of this data.
 Usage 💻
 The console works both in interactive mode and non-interactive mode, much like a Unix shell. It prints a prompt (hbnb) and waits for the user for input.
 
-Command	Example
+Command- Example
 Run the console	./console.py
 Quit the console	(hbnb) quit
 Display the help for a command	(hbnb) help <command>
