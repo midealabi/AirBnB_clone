@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Adeniyii/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
-</p>
 
 
-<h1 align="center">HolbertonBnB</h1>
-<p align="center">An AirBnB clone.</p>
-
----
-
-## Description :label:
+Description 📍
 
 HolbertonBnB is a complete web application, integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.
 
@@ -19,7 +11,7 @@ This first step consists of:
 - a custom command-line interface for data management,
 - and the base classes for the storage of this data.
 
-## Usage 💻
+Usage 💻
 
 The console works both in interactive mode and non-interactive mode, much like a Unix shell.
 It prints a prompt **(hbnb)** and waits for the user for input.
@@ -35,7 +27,7 @@ Destroy an object | ```(hbnb) destroy <class> <id>``` or ```(hbnb) <class>.destr
 Show all objects, or all instances of a class | ```(hbnb) all``` or ```(hbnb) all <class>```
 Update an attribute of an object | ```(hbnb) update <class> <id> <attribute name> "<attribute value>"``` or ```(hbnb) <class>.update(<id>, <attribute name>, "<attribute value>")```
 
-### Interactive mode (example)
+Interactive mode (example)
 
 ```bash
 $ ./console.py
@@ -51,7 +43,7 @@ EOF  help  quit
 $
 ```
 
-### Non-interactive mode (example)
+Non-interactive mode (example)
 
 ```bash
 $ echo "help" | ./console.py
@@ -75,7 +67,7 @@ EOF  help  quit
 $
 ```
 
-## Testing :straight_ruler:
+Testing📏
 
 Unittests for the HolbertonBnB project are defined in the [tests](./tests)
 folder. To run the entire test suite simultaneously, execute the following command:
@@ -91,7 +83,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 
-## Authors :black_nib:
+Authors🖋️
 
-* **Atabong Cecilia** <[cecilia-89](https://github.com/cecilia-89)>
-* **Ijabadeniyi Ifedayo** <[Adeniyii](https://github.com/Adeniyii)>
+* **Ayo Alabi** <[midealabi](https://github.com/midealabi)>
+* **Ijabadenii Ifedayo** <[Adeniyii](https://github.com/Adeniyii)>
