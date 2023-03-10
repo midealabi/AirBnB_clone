@@ -157,8 +157,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Oliver Samuel - [Github](https://github.com/Tecnophille)   
-Jane Affamuefuna - [Github](https://github.com/Jayneey) 
+Ayo Alabi - [Github](https://github.com/midealabi)   
+Victor Nwaonicha - [Github](https://github.com/Victornwaonicha) 
 
 
 ## License
